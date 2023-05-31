@@ -1,3 +1,0 @@
-anti-haze_mean,anti-haze_med,anti-haze_min,anti-haze_max,anti-haze_std,total_mean,total_med,total_min,total_max,total_std,objective_calls,n_replaced,timestamps,n_failed_obj_computation,n_not_improvers_among_success_obj_computation,n_discarded_tabu,n_discarded_filters,n_discarded_rdfilters,n_discarded_sillywalks,n_discarded_sascore,n_discarded_custom_filter
-1.325562806604472,1.325562806604472,1.325562806604472,1.325562806604472,0.0,1.325562806604472,1.325562806604472,1.325562806604472,1.325562806604472,0.0,0,0,0.9825611114501953,0,0,0,0,0,0,0,0
-1.33133291996446,1.33133291996446,1.325562806604472,1.337103033324448,0.005770113359988005,1.33133291996446,1.33133291996446,1.325562806604472,1.337103033324448,0.005770113359988005,1,1,1.916182041168213,0,0,0,0,0,0,0,0

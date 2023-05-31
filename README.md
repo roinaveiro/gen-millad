@@ -1,25 +1,8 @@
-# Code for NOR project AItenea - Repsol
+# Code for de novo generation of Millad-type molecules
 
-## Install `nor` package 
+## Install `gen_millad` package 
 
 Use 
 
 `pip install -e .`
-
-
-## To Do list
-
-- [ ] Model training/evaluation pipeline
-    - Include scaling option for model evaluation
-    - Include calibration metrics
-
-- [ ] Models
-    - [ ] GP regression
-    - [ ] NGBoost
-    - [ ] Graph Net
-    - [ ] ...
-
-- [ ] Incorporate FQ descriptors
-
-- [ ] Incorporate graph features
 
